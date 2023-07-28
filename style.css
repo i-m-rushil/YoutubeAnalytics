@@ -1,0 +1,70 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Poppins, Arial, sans-serif;
+    background-color: #1f1f1f; /* Dark background color */
+    color: white;
+}
+
+h1, h2 {
+    font-family: Montserrat, Arial, sans-serif;
+}
+
+.topbar {
+    background-color: #4CAF50; /* Dark green color for topbar */
+    padding: 20px;
+    text-align: center;
+}
+
+.header {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.header-button {
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+    padding: 10px 20px;
+    margin: 0 10px;
+    font-size: 20px; /* Increased font size for buttons */
+    cursor: pointer;
+}
+
+.header-button:hover {
+    background-color: white;
+    color: #1f1f1f; /* Dark background color */
+}
+
+.body {
+    padding: 20px;
+    text-align: center; /* Center-align the content in the body */
+}
+
+.connect-youtube {
+    text-align: left;
+}
+
+.connect-youtube h2 {
+    font-family: Montserrat, Arial, sans-serif;
+    font-size: 28px; /* Increased font size for heading */
+}
+
+.connect-youtube p {
+    font-family: Poppins, Arial, sans-serif;
+    font-size: 18px; /* Increased font size for content */
+}
+
+.connect-youtube ol {
+    list-style-type: none; /* Remove the numbers from the list */
+}
+
+.footer {
+    background-color: #4CAF50; /* Dark green color for footer */
+    padding: 10px;
+    text-align: center;
+}
+
+.footer p {
+    margin: 0;
+}
